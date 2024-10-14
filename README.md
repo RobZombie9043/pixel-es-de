@@ -1,2 +1,212 @@
 # pixel-es-de
 A WIP port of the "Pixel" theme by Rookervik to ES-DE
+
+## **Preview**
+| System View | Gamelist View | 
+|----|----|
+| ![1](https://github.com/user-attachments/assets/2a18ceef-fdbb-49e0-908e-6d0df5dd2978) | ![2](https://github.com/user-attachments/assets/43cf4207-dd27-4318-847f-d46674cf4cbb) |
+
+## **Progress**
+This port requires additional pixel art assets to be created for the additional systems supported by ES-DE that were not included in the original theme.
+
+Current status: 99/200 complete
+- [x] 3do
+- [ ] adam
+- [x] ags
+- [x] amiga
+- [ ] amiga1200
+- [ ] amiga600
+- [ ] amigacd32
+- [x] amstradcpc
+- [ ] android
+- [x] androidapps
+- [x] androidgames
+- [x] apple2
+- [ ] apple2gs
+- [x] arcade
+- [ ] arcadia
+- [ ] archimedes
+- [ ] arduboy
+- [ ] astrocade
+- [x] atari2600
+- [x] atari5200
+- [x] atari7800
+- [x] atari800
+- [x] atarijaguar
+- [ ] atarijaguarcd
+- [x] atarilynx
+- [x] atarist
+- [ ] atarixe
+- [ ] atomiswave
+- [ ] auto-allgames
+- [ ] auto-favorites
+- [ ] auto-lastplayed
+- [x] bbcmicro
+- [x] c64
+- [x] cdimono1
+- [ ] cdtv
+- [x] chailove
+- [x] channelf
+- [x] coco
+- [x] colecovision
+- [ ] completed
+- [ ] consolearcade
+- [ ] cps
+- [ ] cps1
+- [ ] cps2
+- [ ] cps3
+- [ ] crvision
+- [ ] custom-collections
+- [x] daphne
+- [x] desktop
+- [ ] doom
+- [ ] dos
+- [x] dragon32
+- [x] dreamcast
+- [ ] easyrpg
+- [ ] electron
+- [x] emulators
+- [ ] epic
+- [x] famicom
+- [x] fba
+- [ ] fbneo
+- [x] fds
+- [ ] flash
+- [ ] fm7
+- [ ] fmtowns
+- [ ] fpinball
+- [ ] gamate
+- [x] gameandwatch
+- [ ] gamecom
+- [x] gamegear
+- [x] gb
+- [x] gba
+- [x] gbc
+- [x] gc
+- [x] genesis
+- [ ] gmaster
+- [ ] gx4000
+- [x] intellivision
+- [ ] j2me
+- [x] kodi
+- [ ] laserdisc
+- [ ] lcdgames
+- [ ] lowresnx
+- [ ] lutris
+- [ ] lutro
+- [x] macintosh
+- [ ] mame-advmame
+- [x] mame
+- [x] mastersystem
+- [x] megacd
+- [x] megacdjp
+- [x] megadrive
+- [x] megadrivejp
+- [ ] megaduck
+- [x] mess
+- [ ] model2
+- [ ] model3
+- [ ] moto
+- [x] msx
+- [ ] msx1
+- [ ] msx2
+- [ ] msxturbor
+- [ ] mugen
+- [ ] multivision
+- [x] n3ds
+- [x] n64
+- [x] n64dd
+- [ ] naomi
+- [ ] naomi2
+- [ ] naomigd
+- [x] nds
+- [x] neogeo
+- [ ] neogeocd
+- [ ] neogeocdjp
+- [x] nes
+- [ ] ngage
+- [x] ngp
+- [x] ngpc
+- [ ] now-playing
+- [x] odyssey2
+- [ ] openbor
+- [x] oric
+- [ ] palm
+- [x] pc
+- [ ] pc88
+- [ ] pc98
+- [ ] pcarcade
+- [x] pcengine
+- [x] pcenginecd
+- [x] pcfx
+- [x] pico8
+- [ ] playdate
+- [ ] plus4
+- [ ] pokemini
+- [x] ports
+- [x] ps2
+- [x] ps3
+- [x] ps4
+- [x] psp
+- [x] psvita
+- [x] psx
+- [ ] pv1000
+- [ ] quake
+- [x] samcoupe
+- [ ] satellaview
+- [x] saturn
+- [ ] saturnjp
+- [x] scummvm
+- [ ] scv
+- [x] sega32x
+- [ ] sega32xjp
+- [ ] sega32xna
+- [x] segacd
+- [x] sfc
+- [x] sg-1000
+- [ ] sgb
+- [x] snes
+- [x] snesna
+- [ ] solarus
+- [ ] spectravideo
+- [x] steam
+- [ ] stv
+- [ ] sufami
+- [x] supergrafx
+- [ ] supervision
+- [ ] supracan
+- [x] switch
+- [ ] symbian
+- [ ] tanodragon
+- [x] tg-cd
+- [x] tg16
+- [x] ti99
+- [ ] tic80
+- [ ] to8
+- [x] tools
+- [ ] triforce
+- [x] trs-80
+- [ ] type-x
+- [ ] uzebox
+- [x] vectrex
+- [ ] vic20
+- [x] videopac
+- [x] virtualboy
+- [ ] vpinball
+- [ ] vsmile
+- [ ] wasm4
+- [x] wii
+- [x] wiiu
+- [x] windows
+- [ ] windows3x
+- [ ] windows9x
+- [x] wonderswan
+- [x] wonderswancolor
+- [ ] x1
+- [ ] x68000
+- [x] xbox
+- [x] xbox360
+- [x] zmachine
+- [ ] zx81
+- [ ] zxnext
+- [x] zxspectrum
