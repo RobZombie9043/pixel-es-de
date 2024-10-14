@@ -210,3 +210,8 @@ Current status: 99/200 complete
 - [ ] zx81
 - [ ] zxnext
 - [x] zxspectrum
+
+## **Acknowledgements**
+- Based on the original [Pixel Theme](https://retropie.org.uk/forum/topic/768/pixel-theme) created by Rookervik.
+- Some assets used from the [Pixel Theme fork](https://github.com/TheGemsbok/es-theme-pixel) created by [TheGemsbok](https://github.com/TheGemsbok/es-theme-pixel/commits?author=TheGemsbok)
+- [Evan Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos) whose public domain console photography was used as a reference for some of the pixel art additions to this theme
