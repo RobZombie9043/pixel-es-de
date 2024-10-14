@@ -9,7 +9,7 @@ A WIP port of the "Pixel" theme by Rookervik to ES-DE
 ## **Progress**
 This port requires additional pixel art assets to be created for the additional systems supported by ES-DE that were not included in the original theme.
 
-Current status: 99/200 complete
+Current status: 100/200 complete
 - [x] 3do
 - [ ] adam
 - [x] ags
@@ -155,7 +155,7 @@ Current status: 99/200 complete
 - [x] samcoupe
 - [ ] satellaview
 - [x] saturn
-- [ ] saturnjp
+- [x] saturnjp
 - [x] scummvm
 - [ ] scv
 - [x] sega32x
