@@ -9,7 +9,7 @@ A WIP port of the "Pixel" theme by Rookervik to ES-DE
 ## **Progress**
 This port requires additional pixel art assets to be created for the additional systems supported by ES-DE that were not included in the original theme.
 
-Current status: 105/200 complete
+Current status: 109/200 complete
 - [x] 3do
 - [ ] adam
 - [x] ags
@@ -51,10 +51,10 @@ Current status: 105/200 complete
 - [x] colecovision
 - [ ] completed
 - [ ] consolearcade
-- [ ] cps
-- [ ] cps1
-- [ ] cps2
-- [ ] cps3
+- [x] cps
+- [x] cps1
+- [x] cps2
+- [x] cps3
 - [ ] crvision
 - [x] custom-collections
 - [x] daphne
