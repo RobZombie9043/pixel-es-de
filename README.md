@@ -9,7 +9,7 @@ A WIP port of the "Pixel" theme by Rookervik to ES-DE
 ## **Progress**
 This port requires additional pixel art assets to be created for the additional systems supported by ES-DE that were not included in the original theme.
 
-Current status: 111/200 complete
+Current status: 144/200 complete
 - [x] 3do
 - [ ] adam
 - [x] ags
@@ -24,10 +24,10 @@ Current status: 111/200 complete
 - [x] apple2
 - [ ] apple2gs
 - [x] arcade
-- [ ] arcadia
+- [x] arcadia
 - [ ] archimedes
-- [ ] arduboy
-- [ ] astrocade
+- [x] arduboy
+- [x] astrocade
 - [x] atari2600
 - [x] atari5200
 - [x] atari7800
@@ -36,15 +36,15 @@ Current status: 111/200 complete
 - [ ] atarijaguarcd
 - [x] atarilynx
 - [x] atarist
-- [ ] atarixe
-- [ ] atomiswave
+- [x] atarixe
+- [x] atomiswave
 - [x] auto-allgames
 - [x] auto-favorites
 - [x] auto-lastplayed
 - [x] bbcmicro
 - [x] c64
 - [x] cdimono1
-- [ ] cdtv
+- [x] cdtv
 - [x] chailove
 - [x] channelf
 - [x] coco
@@ -55,15 +55,15 @@ Current status: 111/200 complete
 - [x] cps1
 - [x] cps2
 - [x] cps3
-- [ ] crvision
+- [x] crvision
 - [x] custom-collections
 - [x] daphne
 - [x] desktop
-- [ ] doom
-- [ ] dos
+- [x] doom
+- [x] dos
 - [x] dragon32
 - [x] dreamcast
-- [ ] easyrpg
+- [x] easyrpg
 - [ ] electron
 - [x] emulators
 - [ ] epic
@@ -90,10 +90,10 @@ Current status: 111/200 complete
 - [ ] j2me
 - [x] kodi
 - [ ] laserdisc
-- [ ] lcdgames
-- [ ] lowresnx
+- [x] lcdgames
+- [x] lowresnx
 - [ ] lutris
-- [ ] lutro
+- [x] lutro
 - [x] macintosh
 - [ ] mame-advmame
 - [x] mame
@@ -102,47 +102,47 @@ Current status: 111/200 complete
 - [x] megacdjp
 - [x] megadrive
 - [x] megadrivejp
-- [ ] megaduck
+- [x] megaduck
 - [x] mess
 - [ ] model2
 - [ ] model3
-- [ ] moto
+- [x] moto
 - [x] msx
-- [ ] msx1
-- [ ] msx2
+- [x] msx1
+- [x] msx2
 - [ ] msxturbor
 - [ ] mugen
 - [ ] multivision
 - [x] n3ds
 - [x] n64
 - [x] n64dd
-- [ ] naomi
+- [x] naomi
 - [ ] naomi2
 - [ ] naomigd
 - [x] nds
 - [x] neogeo
-- [ ] neogeocd
-- [ ] neogeocdjp
+- [x] neogeocd
+- [x] neogeocdjp
 - [x] nes
 - [ ] ngage
 - [x] ngp
 - [x] ngpc
 - [ ] now-playing
 - [x] odyssey2
-- [ ] openbor
+- [x] openbor
 - [x] oric
-- [ ] palm
+- [x] palm
 - [x] pc
-- [ ] pc88
-- [ ] pc98
+- [x] pc88
+- [x] pc98
 - [ ] pcarcade
 - [x] pcengine
 - [x] pcenginecd
 - [x] pcfx
 - [x] pico8
 - [ ] playdate
-- [ ] plus4
-- [ ] pokemini
+- [x] plus4
+- [x] pokemini
 - [x] ports
 - [x] ps2
 - [x] ps3
@@ -151,9 +151,9 @@ Current status: 111/200 complete
 - [x] psvita
 - [x] psx
 - [ ] pv1000
-- [ ] quake
+- [x] quake
 - [x] samcoupe
-- [ ] satellaview
+- [x] satellaview
 - [x] saturn
 - [x] saturnjp
 - [x] scummvm
@@ -164,16 +164,16 @@ Current status: 111/200 complete
 - [x] segacd
 - [x] sfc
 - [x] sg-1000
-- [ ] sgb
+- [x] sgb
 - [x] snes
 - [x] snesna
 - [ ] solarus
 - [ ] spectravideo
 - [x] steam
 - [ ] stv
-- [ ] sufami
+- [x] sufami
 - [x] supergrafx
-- [ ] supervision
+- [x] supervision
 - [ ] supracan
 - [x] switch
 - [ ] symbian
@@ -187,7 +187,7 @@ Current status: 111/200 complete
 - [ ] triforce
 - [x] trs-80
 - [ ] type-x
-- [ ] uzebox
+- [x] uzebox
 - [x] vectrex
 - [ ] vic20
 - [x] videopac
@@ -203,7 +203,7 @@ Current status: 111/200 complete
 - [x] wonderswan
 - [x] wonderswancolor
 - [ ] x1
-- [ ] x68000
+- [x] x68000
 - [x] xbox
 - [x] xbox360
 - [x] zmachine
@@ -214,4 +214,5 @@ Current status: 111/200 complete
 ## **Acknowledgements**
 - Based on the original [Pixel Theme](https://retropie.org.uk/forum/topic/768/pixel-theme) created by Rookervik.
 - Some assets used from the [Pixel Theme fork](https://github.com/TheGemsbok/es-theme-pixel) created by [TheGemsbok](https://github.com/TheGemsbok/es-theme-pixel/commits?author=TheGemsbok)
+- - Some assets used from the [Pixel Theme fork](https://github.com/Jetup13/es-theme-pixel) created by [Jetup13](https://github.com/Jetup13/es-theme-pixel/commits?author=Jetup13)
 - [Evan Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos) whose public domain console photography was used as a reference for some of the pixel art additions to this theme
