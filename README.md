@@ -214,5 +214,5 @@ Current status: 144/200 complete
 ## **Acknowledgements**
 - Based on the original [Pixel Theme](https://retropie.org.uk/forum/topic/768/pixel-theme) created by Rookervik.
 - Some assets used from the [Pixel Theme fork](https://github.com/TheGemsbok/es-theme-pixel) created by [TheGemsbok](https://github.com/TheGemsbok/es-theme-pixel/commits?author=TheGemsbok)
-- - Some assets used from the [Pixel Theme fork](https://github.com/Jetup13/es-theme-pixel) created by [Jetup13](https://github.com/Jetup13/es-theme-pixel/commits?author=Jetup13)
+- Some assets used from the [Pixel Theme fork](https://github.com/Jetup13/es-theme-pixel) created by [Jetup13](https://github.com/Jetup13/es-theme-pixel/commits?author=Jetup13)
 - [Evan Amos](https://commons.wikimedia.org/wiki/User:Evan-Amos) whose public domain console photography was used as a reference for some of the pixel art additions to this theme
