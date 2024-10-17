@@ -9,7 +9,7 @@ A WIP port of the "Pixel" theme by Rookervik to ES-DE
 ## **Progress**
 This port requires additional pixel art assets to be created for the additional systems supported by ES-DE that were not included in the original theme.
 
-Current status: 144/200 complete
+Current status: 153/200 complete
 - [x] 3do
 - [ ] adam
 - [x] ags
@@ -33,7 +33,7 @@ Current status: 144/200 complete
 - [x] atari7800
 - [x] atari800
 - [x] atarijaguar
-- [ ] atarijaguarcd
+- [x] atarijaguarcd
 - [x] atarilynx
 - [x] atarist
 - [x] atarixe
@@ -159,15 +159,15 @@ Current status: 144/200 complete
 - [x] scummvm
 - [ ] scv
 - [x] sega32x
-- [ ] sega32xjp
-- [ ] sega32xna
+- [x] sega32xjp
+- [x] sega32xna
 - [x] segacd
 - [x] sfc
 - [x] sg-1000
 - [x] sgb
 - [x] snes
 - [x] snesna
-- [ ] solarus
+- [x] solarus
 - [ ] spectravideo
 - [x] steam
 - [ ] stv
@@ -177,11 +177,11 @@ Current status: 144/200 complete
 - [ ] supracan
 - [x] switch
 - [ ] symbian
-- [ ] tanodragon
+- [x] tanodragon
 - [x] tg-cd
 - [x] tg16
 - [x] ti99
-- [ ] tic80
+- [x] tic80
 - [ ] to8
 - [x] tools
 - [ ] triforce
@@ -189,7 +189,7 @@ Current status: 144/200 complete
 - [ ] type-x
 - [x] uzebox
 - [x] vectrex
-- [ ] vic20
+- [x] vic20
 - [x] videopac
 - [x] virtualboy
 - [ ] vpinball
@@ -202,12 +202,12 @@ Current status: 144/200 complete
 - [ ] windows9x
 - [x] wonderswan
 - [x] wonderswancolor
-- [ ] x1
+- [x] x1
 - [x] x68000
 - [x] xbox
 - [x] xbox360
 - [x] zmachine
-- [ ] zx81
+- [x] zx81
 - [ ] zxnext
 - [x] zxspectrum
 
