@@ -9,12 +9,12 @@ A WIP port of the "Pixel" theme by Rookervik to ES-DE
 ## **Progress**
 This port requires additional pixel art assets to be created for the additional systems supported by ES-DE that were not included in the original theme.
 
-Current status: 156/200 complete
+Current status: 157/200 complete
 - [x] 3do
 - [x] adam
 - [x] ags
 - [x] amiga
-- [ ] amiga1200
+- [x] amiga1200
 - [x] amiga600
 - [x] amigacd32
 - [x] amstradcpc
