@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Solarus engine released April 6, 2021 and was designed with cult 2D action-RPG classics in mind.</systemDescription>
+        <systemColor>FFBC00</systemColor>
+        <systemColorPalette1>FFBC00</systemColorPalette1>
+        <systemColorPalette2>A7ADFB</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

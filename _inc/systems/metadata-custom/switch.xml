@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Nintendo Switch released March 3, 2017. It displays up to 1920x1080 pixels.</systemDescription>
+        <systemColor>ff4d50</systemColor>
+        <systemColorPalette1>4dd7f6</systemColorPalette1>
+        <systemColorPalette2>2d2d2d</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>c3c3c3</secondaryColor>
+    </variables>
+</theme>

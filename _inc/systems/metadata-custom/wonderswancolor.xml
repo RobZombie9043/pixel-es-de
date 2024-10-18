@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Bandai WonderSwan Color released December 9, 2000. It displays up to 224x144 pixels.</systemDescription>
+        <systemColor>00ff2a</systemColor>
+        <systemColorPalette1>004346</systemColorPalette1>
+        <systemColorPalette2>00edf8</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

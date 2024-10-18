@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The NEC TurboGrafx-CD released December 4, 1988. It displays up to 256x239 pixels.</systemDescription>
+        <systemColor>f79226</systemColor>
+        <systemColorPalette1>46290b</systemColorPalette1>
+        <systemColorPalette2>d5e14d</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>c3c3c3</secondaryColor>
+    </variables>
+</theme>

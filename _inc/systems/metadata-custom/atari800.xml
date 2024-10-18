@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Atari 800 released November 1979. It displays up to 320x214 pixels.</systemDescription>
+        <systemColor>c38f47</systemColor>
+        <systemColorPalette1>372814</systemColorPalette1>
+        <systemColorPalette2>d5721c</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

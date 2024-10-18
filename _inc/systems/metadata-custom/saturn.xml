@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Sega Saturn released November 22, 1994. It displays up to 704x224 pixels.</systemDescription>
+        <systemColor>627fd2</systemColor>
+        <systemColorPalette1>627fd2</systemColorPalette1>
+        <systemColorPalette2>5e5e5e</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Sony Playstation 4 released November 15, 2013. It displays up to 3840x2160 pixels.</systemDescription>
+        <systemColor>01b9d5</systemColor>
+        <systemColorPalette1>3a303e</systemColorPalette1>
+        <systemColorPalette2>01b9d5</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

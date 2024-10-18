@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.75</systemConsoleSize>
+        <systemDescription>The Nintendo 64DD released December 13, 1999. It displays up to 720x576 pixels.</systemDescription>
+        <systemColor>5f5f5f</systemColor>
+        <systemColorPalette1>1b1b1b</systemColorPalette1>
+        <systemColorPalette2>5171ff</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>c3c3c3</secondaryColor>
+    </variables>
+</theme>

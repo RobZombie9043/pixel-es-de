@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>1.1</systemConsoleSize>
+        <systemDescription>The first Nintendo Color TV-Game, Color TV-Game 6, released June 1, 1977. It displays about 30x43 pixels.</systemDescription>
+        <systemColor>fed71f</systemColor>
+        <systemColorPalette1>fed71f</systemColorPalette1>
+        <systemColorPalette2>752e2c</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

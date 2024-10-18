@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Neo Geo CD released September 9, 1994. It displays up to 304x224 pixels.</systemDescription>
+        <systemColor>695134</systemColor>
+        <systemColorPalette1>695134</systemColorPalette1>
+        <systemColorPalette2>F3CC31</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

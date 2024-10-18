@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The SNK Neo Geo Pocket Color released March 16, 1999. It displays up to 160x152 pixels.</systemDescription>
+        <systemColor>188d35</systemColor>
+        <systemColorPalette1>16a3cc</systemColorPalette1>
+        <systemColorPalette2>094715</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

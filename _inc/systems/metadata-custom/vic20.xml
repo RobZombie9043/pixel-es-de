@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Commodore VIC-20 released June 1980. It displays up to 176×184 pixels.</systemDescription>
+        <systemColor>495564</systemColor>
+        <systemColorPalette1>495564</systemColorPalette1>
+        <systemColorPalette2>00d0f5</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

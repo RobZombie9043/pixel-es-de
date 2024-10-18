@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The SAM Coup&#233; released 1989. It displays up to 256x192 pixels.</systemDescription>
+        <systemColor>cc1919</systemColor>
+        <systemColorPalette1>3a0707</systemColorPalette1>
+        <systemColorPalette2>ff0000</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>c3c3c3</secondaryColor>
+    </variables>
+</theme>

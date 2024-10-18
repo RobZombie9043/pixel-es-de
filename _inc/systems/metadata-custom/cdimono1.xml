@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Philips CD-i released December 3, 1991. It displays up to 768x560 pixels.</systemDescription>
+        <systemColor>797b78</systemColor>
+        <systemColorPalette1>505050</systemColorPalette1>
+        <systemColorPalette2>df282c</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

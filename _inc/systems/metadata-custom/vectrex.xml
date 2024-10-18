@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The GCE Vectrex released November 1982. It displays vectors up to about 480x640 endpoints.</systemDescription>
+        <systemColor>8a6fa8</systemColor>
+        <systemColorPalette1>271f2f</systemColorPalette1>
+        <systemColorPalette2>8a6fa8</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

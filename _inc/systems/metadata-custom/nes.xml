@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Nintendo Entertainment System released July 15, 1983. It displays up to 256x240 pixels.</systemDescription>
+        <systemColor>eedede</systemColor>
+        <systemColorPalette1>3c3838</systemColorPalette1>
+        <systemColorPalette2>fe1711</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

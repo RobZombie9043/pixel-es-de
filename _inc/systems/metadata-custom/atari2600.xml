@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Atari 2600 released September 11, 1977. It displays up to 160x192 pixels.</systemDescription>
+        <systemColor>d46000</systemColor>
+        <systemColorPalette1>3c1b00</systemColorPalette1>
+        <systemColorPalette2>d46000</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

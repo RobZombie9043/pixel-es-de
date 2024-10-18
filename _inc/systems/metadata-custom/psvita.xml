@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Sony Playstation Vita released December 17, 2011. It displays up to 960x544 pixels.</systemDescription>
+        <systemColor>003287</systemColor>
+        <systemColorPalette1>7d8087</systemColorPalette1>
+        <systemColorPalette2>2a2b2d</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>c3c3c3</secondaryColor>
+    </variables>
+</theme>

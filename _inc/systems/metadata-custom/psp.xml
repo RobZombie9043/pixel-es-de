@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Sony Playstation Portable released December 12, 2004. It displays up to 480x272 pixels.</systemDescription>
+        <systemColor>9ea1b2</systemColor>
+        <systemColorPalette1>2d2d32</systemColorPalette1>
+        <systemColorPalette2>a162e0</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

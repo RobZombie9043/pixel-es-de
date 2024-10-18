@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>ScummVM released October 4, 2001.</systemDescription>
+        <systemColor>ff9400</systemColor>
+        <systemColorPalette1>482a00</systemColorPalette1>
+        <systemColorPalette2>ff9400</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

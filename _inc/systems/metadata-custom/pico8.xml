@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Pico-8 Fantasy Console released April 1, 2015. It displays up to 128x128 pixels.</systemDescription>
+        <systemColor>7f4eb2</systemColor>
+        <systemColorPalette1>613b89</systemColorPalette1>
+        <systemColorPalette2>1D2B53</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

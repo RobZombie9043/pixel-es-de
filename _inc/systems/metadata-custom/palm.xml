@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The PalmPilot PDA devices released March 10, 1997. It displays up to 160x160 pixels.</systemDescription>
+        <systemColor>636363</systemColor>
+        <systemColorPalette1>636363</systemColorPalette1>
+        <systemColorPalette2>ff0000</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

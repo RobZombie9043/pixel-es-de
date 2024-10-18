@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Thomson MOTO released in 1984. It displays up to 320×200 pixels.</systemDescription>
+        <systemColor>4a47c4</systemColor>
+        <systemColorPalette1>4a47c4</systemColorPalette1>
+        <systemColorPalette2>bc14ff</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

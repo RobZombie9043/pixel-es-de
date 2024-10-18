@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Sega Genesis released October 29, 1988. It displays up to 320x224 pixels.</systemDescription>
+        <systemColor>2e3cc9</systemColor>
+        <systemColorPalette1>0d1139</systemColorPalette1>
+        <systemColorPalette2>727fff</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>c3c3c3</secondaryColor>
+    </variables>
+</theme>

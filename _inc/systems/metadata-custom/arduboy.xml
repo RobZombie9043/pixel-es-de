@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Arduboy released 2015. It displays 128x64 pixels.</systemDescription>
+        <systemColor>8B2DB4</systemColor>
+        <systemColorPalette1>8B2DB4</systemColorPalette1>
+        <systemColorPalette2>74D24B</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

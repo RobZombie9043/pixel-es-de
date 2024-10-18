@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>Steam released September 11, 2003.</systemDescription>
+        <systemColor>70889d</systemColor>
+        <systemColorPalette1>20262c</systemColorPalette1>
+        <systemColorPalette2>858585</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Supervision released December 31, 1992. It displays up to 160×160 pixels.</systemDescription>
+        <systemColor>C41D00</systemColor>
+        <systemColorPalette1>C41D00</systemColorPalette1>
+        <systemColorPalette2>C0D0C0</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

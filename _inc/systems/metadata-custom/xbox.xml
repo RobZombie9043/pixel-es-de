@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Microsoft Xbox released November 15, 2001. It displays up to 1920x1080 pixels.</systemDescription>
+        <systemColor>1b251c</systemColor>
+        <systemColorPalette1>03d100</systemColorPalette1>
+        <systemColorPalette2>1d3b0e</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

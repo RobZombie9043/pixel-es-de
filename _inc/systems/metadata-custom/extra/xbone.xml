@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>1.1</systemConsoleSize>
+        <systemDescription>The Microsoft Xbox One released November 22, 2013. It displays up to 3840x2160 pixels.</systemDescription>
+        <systemColor>96c947</systemColor>
+        <systemColorPalette1>e3e4e1</systemColorPalette1>
+        <systemColorPalette2>1c7e3e</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>c3c3c3</secondaryColor>
+    </variables>
+</theme>

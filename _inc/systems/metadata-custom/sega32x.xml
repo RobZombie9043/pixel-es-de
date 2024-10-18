@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Sega Genesis 32X released November 21, 1994. It displays up to 320x240 pixels.</systemDescription>
+        <systemColor>535353</systemColor>
+        <systemColorPalette1>171717</systemColorPalette1>
+        <systemColorPalette2>ffb400</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>EasyRPG engine released in 2007 to create RPG games.</systemDescription>
+        <systemColor>8f6250</systemColor>
+        <systemColorPalette1>8f6250</systemColorPalette1>
+        <systemColorPalette2>ee0000</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

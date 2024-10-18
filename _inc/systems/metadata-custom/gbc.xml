@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Nintendo Game Boy Color released October 21, 1998. It displays up to 160x144 pixels.</systemDescription>
+        <systemColor>c87af8</systemColor>
+        <systemColorPalette1>382246</systemColorPalette1>
+        <systemColorPalette2>f3d00a</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

@@ -1,0 +1,253 @@
+<!--
+theme name: 	Pixel
+designed by:   	
+license:      	creative commons CC-BY-NC-SA
+-->
+
+<theme>
+
+	<include>./_inc/systems/metadata-global/_default.xml</include>
+	<include>./_inc/systems/metadata-global/${system.theme}.xml</include>
+	<include>./_inc/systems/metadata-custom/_default.xml</include>
+	<include>./_inc/systems/metadata-custom/${system.theme}.xml</include>
+
+	<variables>
+		<spacerImage>./_inc/images/space.png</spacerImage>
+		<systemBack>./_inc/images/systemback.png</systemBack>
+		<systemSelect>./_inc/images/systems_select.png</systemSelect>
+		<systemSelectFront>./_inc/images/systems_select_front.png</systemSelectFront>
+		<gamelistBack>./_inc/images/background.png</gamelistBack>
+		<gamelistBorder>./_inc/images/border.png</gamelistBorder>
+		<logo>./_inc/systems/logos/${system.theme}.png</logo>
+		<console>./_inc/systems/consoles/${system.theme}.png</console>
+		<logoNew>./_inc/systems/logos (new)/${system.theme}.webp</logoNew>
+		<consoleNew>./_inc/systems/consoles (new)/${system.theme}.webp</consoleNew>
+		<font>./_inc/fonts/font.ttf</font>
+	</variables>
+
+	<!--
+	///
+	All Views
+	///
+	-->
+	<view name="system,gamelist">
+		<helpsystem name="help">
+			<origin>0 0</origin>
+			<pos>0.01 0.96</pos>
+			<fontSize>0.032</fontSize>
+			<fontSizeDimmed>0.032</fontSizeDimmed>
+			<fontPath>${font}</fontPath>
+			<letterCase>uppercase</letterCase>
+			<iconColor>ffffff</iconColor>
+			<textColor>ffffff</textColor>
+			<originDimmed>0 0</originDimmed>
+			<posDimmed>0.01 0.96</posDimmed>
+			<textColorDimmed>cccccc</textColorDimmed>
+			<iconColorDimmed>cccccc</iconColorDimmed>
+			<opacityDimmed>1.0</opacityDimmed>
+		</helpsystem>
+	</view>
+
+	<!--
+	///
+	System View
+	///
+	-->
+	<view name="system">
+		<image name="system-background">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<size>1 1</size>
+			<color>${systemColor}</color>
+			<tile>false</tile>
+			<zIndex>1</zIndex>
+		</image>
+		<image name="system-carousel-background">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<size>1 0.225</size>
+			<path>${spacerImage}</path>
+			<color>ffffffB3</color>
+			<tile>true</tile>
+			<zIndex>3</zIndex>
+		</image>
+		<image name="system-metadata-background">
+			<origin>0.5 0</origin>
+			<pos>0.5 0.6125</pos>
+			<size>1 0.075</size>
+			<path>${spacerImage}</path>
+			<color>ccccccB3</color>
+			<tile>true</tile>
+			<zIndex>3</zIndex>
+		</image>
+		<image name="system-console-overlay">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<maxSize>${systemConsoleSize} ${systemConsoleSize}</maxSize>
+			<path>${console}</path>
+			<zIndex>2</zIndex>
+		</image>		
+		<carousel name="system-carousel">
+			<origin>0.5 0.5</origin>
+			<size>1 0.3</size>
+			<itemSize>0.2 0.2</itemSize>
+			<imageFit>contain</imageFit>
+			<itemVerticalAlignment>center</itemVerticalAlignment>
+			<unfocusedItemOpacity>1</unfocusedItemOpacity>
+			<unfocusedItemDimming>0.8</unfocusedItemDimming>
+			<itemScale>1.1</itemScale>
+			<staticImage>${logo}</staticImage>
+			<fastScrolling>true</fastScrolling>
+			<color>00000000</color>
+			<textColor>ffffff</textColor>
+			<textBackgroundColor>33333340</textBackgroundColor>
+			<fontSize>0.045</fontSize>
+		</carousel>
+		<text name="system-game-count">
+			<origin>0.5 0.5</origin>
+			<fontSize>0.032</fontSize> 
+			<!-- <fontPath>${font}</fontPath> -->
+			<systemdata>gamecount</systemdata>
+			<letterCase>capitalize</letterCase>
+			<color>000000</color>
+		</text>
+	</view>
+	
+	<variant name="system-original">
+		<view name="system">
+			<image name="system-background">
+				<path>${systemBack}</path>
+			</image>
+			<image name="system-console-overlay">
+				<pos>0.5 0.5</pos>
+				<maxSize>0.7 0.7</maxSize>
+			</image>		
+			<carousel name="system-carousel">
+				<pos>0.5 0.5</pos>
+			</carousel>
+			<text name="system-game-count">
+				<pos>0.5 0.65</pos>
+			</text>
+			<text name="system-game-count">
+				<!-- <fontPath>${font}</fontPath> -->
+				<color>000000</color>
+			</text>
+		</view>
+	</variant>
+	
+	
+	<variant name="system-modified">
+		<view name="system">
+			<image name="system-background">
+				<path>${systemSelect}</path>
+				<stationary>always</stationary>
+			</image>
+			<image name="system-background-front">
+				<origin>0.5 0.5</origin>
+				<pos>0.5 0.5</pos>
+				<size>1 1</size>
+				<tile>false</tile>
+				<color>ffffff</color>
+				<path>${systemSelectFront}</path>
+				<stationary>always</stationary>
+				<zIndex>2</zIndex>
+			</image>
+			<image name="system-carousel-background">
+				<visible>false</visible>
+			</image>
+			<image name="system-metadata-background">
+				<visible>false</visible>
+			</image>
+			<image name="system-console-overlay">
+				<pos>0.5 0.3</pos>
+				<maxSize>0.4 0.4</maxSize>
+			</image>	
+			<carousel name="system-carousel">
+				<pos>0.5 0.735</pos>
+				<itemSize>0.15 0.15</itemSize>
+				<itemScale>1.35</itemScale>
+			</carousel>
+			<text name="system-game-count">
+				<pos>0.5 0.91</pos>
+			</text>
+			<text name="system-game-count">
+				<fontPath>${font}</fontPath>
+				<color>d8d8d8</color>
+				<letterCase>uppercase</letterCase>
+			</text>
+		</view>
+	</variant>
+	
+	<!--
+	///
+	Gamelist View
+	///
+	-->
+	<view name="gamelist">
+		<image name="gamelist-background">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<size>1 1</size>
+			<path>${gamelistBack}</path>
+			<color>${systemColor}</color>
+			<tile>false</tile>
+			<zIndex>1</zIndex>
+		</image>
+		<image name="gamelist-border">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<size>1 1</size>
+			<path>${gamelistBorder}</path>
+			<color>acacac</color>
+			<tile>false</tile>
+			<zIndex>2</zIndex>
+		</image>
+		<textlist name="gamelist">
+			<pos>0.033 0.266</pos>
+			<size>0.483 0.611</size>
+			<horizontalAlignment>left</horizontalAlignment>
+			<horizontalMargin>0.01</horizontalMargin>
+			<fontPath>${font}</fontPath>
+			<fontSize>0.03</fontSize>
+			<selectorColor>${systemColorPalette1}</selectorColor>
+			<selectedColor>${systemColorPalette2}</selectedColor>
+			<primaryColor>${primaryColor}</primaryColor>
+			<secondaryColor>${secondaryColor}</secondaryColor>
+			<letterCase>uppercase</letterCase>
+		</textlist>
+		<image name="logo">
+			<origin>0.5 0.5</origin>
+			<pos>0.274 0.114</pos>
+			<maxSize>0.418 0.115</maxSize>
+			<path>${logo}</path>
+			<zIndex>3</zIndex>
+		</image>
+		<image name="md-image">
+			<origin>0.5 0.5</origin>
+			<pos>0.766 0.322</pos>
+			<maxSize>0.366 0.480</maxSize>
+			<imageType>miximage</imageType>
+			<zIndex>3</zIndex>
+		</image>
+		<image name="gamelist-console">
+			<origin>0.5 0.5</origin>
+			<pos>0.880 0.778</pos>
+			<maxSize>0.25 0.25</maxSize>
+			<path>${console}</path>
+			<zIndex>3</zIndex>
+		</image>
+		<text name="gamelist-system-description">
+			<origin>0 0</origin>
+			<pos>0.58 0.677</pos>
+			<size>0.201 0.204</size>
+			<fontSize>0.03</fontSize> 
+			<lineSpacing>1.1</lineSpacing>
+			<fontPath>${font}</fontPath>
+			<text>${systemDescription}</text>
+			<letterCase>none</letterCase>
+			<horizontalAlignment>center</horizontalAlignment>
+			<color>ffffff</color>
+		</text>
+	</view>
+	
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>View and play your favorite games across the entire library.</systemDescription>
+        <systemColor>fad60b</systemColor>
+        <systemColorPalette1>fad60b</systemColorPalette1>
+        <systemColorPalette2>f80210</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

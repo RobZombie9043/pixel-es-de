@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>Organize your games into custom collections.</systemDescription>
+        <systemColor>d69a3c</systemColor>
+        <systemColorPalette1>d69a3c</systemColorPalette1>
+        <systemColorPalette2>111111</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Magnavox Odyssey2 released December 1978. It displays up to 160x200 pixels.</systemDescription>
+        <systemColor>f9c801</systemColor>
+        <systemColorPalette1>1d1b1d</systemColorPalette1>
+        <systemColorPalette2>f98101</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

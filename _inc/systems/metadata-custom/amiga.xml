@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Commodore Amiga released July 23, 1985. It displays up to 1024x1024 pixels.</systemDescription>
+        <systemColor>ddc3b8</systemColor>
+        <systemColorPalette1>3e3734</systemColorPalette1>
+        <systemColorPalette2>fff79d</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Apple Macintosh released January 24, 1984. It displays up to 512x342 pixels.</systemDescription>
+        <systemColor>957e74</systemColor>
+        <systemColorPalette1>2a2421</systemColorPalette1>
+        <systemColorPalette2>7e7e7e</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Atari 7800 released May 1, 1986. It displays up to 320x240 pixels.</systemDescription>
+        <systemColor>ff9d1d</systemColor>
+        <systemColorPalette1>775918</systemColorPalette1>
+        <systemColorPalette2>ff9d1d</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

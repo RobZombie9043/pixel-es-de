@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The ColecoVision released August 1982. It displays up to 256x192 pixels.</systemDescription>
+        <systemColor>f6c1c1</systemColor>
+        <systemColorPalette1>453636</systemColorPalette1>
+        <systemColorPalette2>f6b540</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

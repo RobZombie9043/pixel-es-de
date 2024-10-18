@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The UZebox released August 24, 2008. It displays up to 360x224 pixels.</systemDescription>
+        <systemColor>202EDA</systemColor>
+        <systemColorPalette1>202EDA</systemColorPalette1>
+        <systemColorPalette2>ff0000</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

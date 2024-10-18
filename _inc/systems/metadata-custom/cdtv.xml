@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The CDTV released March 1, 1991. It displays up to 320×256 pixels.</systemDescription>
+        <systemColor>E21D2C</systemColor>
+        <systemColorPalette1>E21D2C</systemColorPalette1>
+        <systemColorPalette2>7BB1F7</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

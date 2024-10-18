@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Sega Mega-CD released December 12, 1991. It displays up to 320x240 pixels.</systemDescription>
+        <systemColor>46729c</systemColor>
+        <systemColorPalette1>46729c</systemColorPalette1>
+        <systemColorPalette2>b1a772</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>c3c3c3</secondaryColor>
+    </variables>
+</theme>

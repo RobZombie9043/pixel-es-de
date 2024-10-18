@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Sega Dreamcast released November 27, 1998. It displays up to 640x480 pixels.</systemDescription>
+        <systemColor>ffffff</systemColor>
+        <systemColorPalette1>484848</systemColorPalette1>
+        <systemColorPalette2>f2873f</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

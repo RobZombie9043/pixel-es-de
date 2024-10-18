@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The MSX 2 released January 1, 1985. It displays up to 512×212 pixels.</systemDescription>
+        <systemColor>939497</systemColor>
+        <systemColorPalette1>939497</systemColorPalette1>
+        <systemColorPalette2>f26c84</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The first Infocom game, Zork - The Great Underground Empire, Part I, released December 1980.</systemDescription>
+        <systemColor>7a6f42</systemColor>
+        <systemColorPalette1>221f13</systemColorPalette1>
+        <systemColorPalette2>e4b625</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>c3c3c3</secondaryColor>
+    </variables>
+</theme>

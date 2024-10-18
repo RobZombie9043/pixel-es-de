@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Tangerene Oric-1 released September 1, 1982. It displays up to 240x200 pixels.</systemDescription>
+        <systemColor>85ACCA</systemColor>
+        <systemColorPalette1>85ACCA</systemColorPalette1>
+        <systemColorPalette2>727fff</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

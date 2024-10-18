@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>Android is a mobile operating system based on a modified version of the Linux kernel.</systemDescription>
+        <systemColor>32DE84</systemColor>
+        <systemColorPalette1>1ba85e</systemColorPalette1>
+        <systemColorPalette2>fda504</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

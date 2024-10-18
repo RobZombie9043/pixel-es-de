@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>1.1</systemConsoleSize>
+        <systemDescription>Grim Fandango released October 28, 1998. Escape from Monkey Island released November 8, 2000.</systemDescription>
+        <systemColor>004b78</systemColor>
+        <systemColorPalette1>002a44</systemColorPalette1>
+        <systemColorPalette2>7bb1f7</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

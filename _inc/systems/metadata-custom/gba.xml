@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Nintendo Game Boy Advance released March 21, 2001. It displays up to 240x160 pixels.</systemDescription>
+        <systemColor>8f85ff</systemColor>
+        <systemColorPalette1>282648</systemColorPalette1>
+        <systemColorPalette2>a79fff</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>c3c3c3</secondaryColor>
+    </variables>
+</theme>

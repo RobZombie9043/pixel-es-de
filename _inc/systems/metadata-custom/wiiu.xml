@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Nintendo Wii U released November 18, 2012. It displays up to 1920x1080 pixels.</systemDescription>
+        <systemColor>009ac7</systemColor>
+        <systemColorPalette1>58595b</systemColorPalette1>
+        <systemColorPalette2>02abcc</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

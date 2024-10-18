@@ -1,0 +1,7 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+		<primaryColor>ffffff</primaryColor>
+		<secondaryColor>c3c3c3</secondaryColor>
+    </variables>
+</theme>

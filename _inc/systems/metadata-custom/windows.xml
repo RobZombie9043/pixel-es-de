@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The first version of Windows was released on November 20, 1985.</systemDescription>
+        <systemColor>39B1DE</systemColor>
+        <systemColorPalette1>0079d7</systemColorPalette1>
+        <systemColorPalette2>ffffff</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

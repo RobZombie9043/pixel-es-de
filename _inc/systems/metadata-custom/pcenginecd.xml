@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The NEC PC Engine CD-ROM2 released December 4, 1988. It displays up to 256x239 pixels.</systemDescription>
+        <systemColor>8f6250</systemColor>
+        <systemColorPalette1>8f6250</systemColorPalette1>
+        <systemColorPalette2>ee0000</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

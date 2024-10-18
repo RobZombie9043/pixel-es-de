@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Dragon 32 released August 1982. It displays up to 256x192 pixels.</systemDescription>
+        <systemColor>ffe0bb</systemColor>
+        <systemColorPalette1>483f35</systemColorPalette1>
+        <systemColorPalette2>b6e11d</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

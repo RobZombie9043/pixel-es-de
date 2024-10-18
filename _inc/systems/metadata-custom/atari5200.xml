@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Atari 5200 released in November 1982. It displays up to 384x240 pixels.</systemDescription>
+        <systemColor>636363</systemColor>
+        <systemColorPalette1>1c1c1c</systemColorPalette1>
+        <systemColorPalette2>3b6fc6</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

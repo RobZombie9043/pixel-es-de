@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The NEC PC-FX released December 23, 1994. It displays up to 341x480 pixels.</systemDescription>
+        <systemColor>f6ce2a</systemColor>
+        <systemColorPalette1>fc0c21</systemColorPalette1>
+        <systemColorPalette2>130954</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>c3c3c3</secondaryColor>
+    </variables>
+</theme>

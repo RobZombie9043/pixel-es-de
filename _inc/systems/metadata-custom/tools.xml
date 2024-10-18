@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription />
+        <systemColor>00a0e8</systemColor>
+        <systemColorPalette1>7c71da00</systemColorPalette1>
+        <systemColorPalette2>4da1ff</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>Lutro is a 2D game framework that aims for simplicity and extreme portability released February 17, 2015.</systemDescription>
+        <systemColor>8a6fa8</systemColor>
+        <systemColorPalette1>8a6fa8</systemColorPalette1>
+        <systemColorPalette2>ad63ff</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

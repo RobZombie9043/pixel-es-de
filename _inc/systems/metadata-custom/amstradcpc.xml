@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Amstrad CPC released 1984. It displays up to 640x200 pixels.</systemDescription>
+        <systemColor>828282</systemColor>
+        <systemColorPalette1>252525</systemColorPalette1>
+        <systemColorPalette2>e3e3e3</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

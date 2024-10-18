@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Sinclair ZX Spectrum released April 23, 1982. It displays up to 256x192 pixels.</systemDescription>
+        <systemColor>7c7c7c</systemColor>
+        <systemColorPalette1>232323</systemColorPalette1>
+        <systemColorPalette2>00ff2a</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

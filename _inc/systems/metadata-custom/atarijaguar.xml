@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Atari Jaguar released November 23, 1993. It displays up to 320x240 pixels.</systemDescription>
+        <systemColor>444444</systemColor>
+        <systemColorPalette1>131313</systemColorPalette1>
+        <systemColorPalette2>fc0000</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

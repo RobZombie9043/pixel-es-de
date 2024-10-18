@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>TIC-80 is a free and open source fantasy computer released in 2017. It displays up to 240x136 pixels.</systemDescription>
+        <systemColor>41A6F6</systemColor>
+        <systemColorPalette1>41A6F6</systemColorPalette1>
+        <systemColorPalette2>ff0000</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

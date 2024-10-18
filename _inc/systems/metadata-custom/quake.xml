@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>Quake released June 22, 1996. The original game displayed up to 1280x1024 pixels.</systemDescription>
+        <systemColor>8eb493</systemColor>
+        <systemColorPalette1>8eb493</systemColorPalette1>
+        <systemColorPalette2>bd8728</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Super Game Boy released June 28, 1994. It displays up to 160×144 pixels.</systemDescription>
+        <systemColor>2EA8DD</systemColor>
+        <systemColorPalette1>2EA8DD</systemColorPalette1>
+        <systemColorPalette2>30308F</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

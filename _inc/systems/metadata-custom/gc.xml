@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Nintendo Gamecube released September 14, 2001. It displays up to 768x576 pixels.</systemDescription>
+        <systemColor>59b8fd</systemColor>
+        <systemColorPalette1>193447</systemColorPalette1>
+        <systemColorPalette2>d0d0e5</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>
