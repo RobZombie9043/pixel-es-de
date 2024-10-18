@@ -15,7 +15,7 @@ A WIP port of the "Pixel" theme by Rookervik to ES-DE
 ## **Progress**
 This port requires additional pixel art assets to be created for the additional systems supported by ES-DE that were not included in the original theme.
 
-Current status: 157/198 complete
+Current status: 157/197 complete
 - [x] 3do (Rookervik)
 - [x] adam (Rob Zombie)
 - [x] ags (Rookervik)
@@ -144,7 +144,6 @@ Current status: 157/198 complete
 - [x] pcenginecd (Rookervik)
 - [x] pcfx (TheGemsbok)
 - [x] pico8 (Rob Zombie)
-- [ ] playdate
 - [x] plus4 (Jetup13)
 - [x] pokemini (Jetup13)
 - [x] ports (Rookervik)
