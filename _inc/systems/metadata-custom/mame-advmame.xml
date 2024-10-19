@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>AdvanceMAME, is a port of the MAME 0.106 and MESS 0.106 emulators for Arcade Monitors and TVs but also for LCDs and PC monitors.</systemDescription>
+        <systemColor>0c4c8a</systemColor>
+        <systemColorPalette1>0c4c8a</systemColorPalette1>
+        <systemColorPalette2>6ec0e8</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>
