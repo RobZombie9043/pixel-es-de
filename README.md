@@ -15,7 +15,7 @@ A WIP port of the "Pixel" theme by Rookervik to ES-DE
 ## **Progress**
 This port requires additional pixel art assets to be created for the additional systems supported by ES-DE that were not included in the original theme.
 
-Current status: 157/197 complete
+Current status: 161/197 complete
 - [x] 3do (Rookervik)
 - [x] adam (Rob Zombie)
 - [x] ags (Rookervik)
@@ -100,7 +100,7 @@ Current status: 157/197 complete
 - [ ] lutris
 - [x] lutro (Jetup13)
 - [x] macintosh (Rookervik)
-- [ ] mame-advmame
+- [x] mame-advmame (Rob Zombie)
 - [x] mame (Rookervik)
 - [x] mastersystem (Rookervik)
 - [x] megacd (Rookervik)
@@ -109,8 +109,8 @@ Current status: 157/197 complete
 - [x] megadrivejp (Rob Zombie)
 - [x] megaduck (Jetup13)
 - [x] mess (Rookervik)
-- [ ] model2
-- [ ] model3
+- [x] model2 (Rob Zombie)
+- [x] model3 (Rob Zombie)
 - [x] moto (Jetup13)
 - [x] msx (Rookervik)
 - [x] msx1 (Rookervik)
@@ -139,7 +139,7 @@ Current status: 157/197 complete
 - [x] pc (Rookervik)
 - [x] pc88 (Jetup13)
 - [x] pc98 (Jetup13)
-- [ ] pcarcade
+- [x] pcarcade (Rob Zombie)
 - [x] pcengine (Rookervik)
 - [x] pcenginecd (Rookervik)
 - [x] pcfx (TheGemsbok)
