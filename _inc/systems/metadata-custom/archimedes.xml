@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Acorn Archimedes released June 1987. It displays up to 640x512 pixels.</systemDescription>
+        <systemColor>019ade</systemColor>
+        <systemColorPalette1>019ade</systemColorPalette1>
+        <systemColorPalette2>ffffff</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>
