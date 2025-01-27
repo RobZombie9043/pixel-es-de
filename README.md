@@ -15,7 +15,7 @@ A WIP port of the "Pixel" theme by Rookervik to ES-DE
 ## **Progress**
 This port requires additional pixel art assets to be created for the additional systems supported by ES-DE that were not included in the original theme.
 
-Current status: 164/197 complete
+Current status: 168/197 complete
 - [x] 3do (Rookervik)
 - [x] adam (Rob Zombie)
 - [x] ags (Rookervik)
@@ -69,7 +69,7 @@ Current status: 164/197 complete
 - [x] dragon32 (Rookervik)
 - [x] dreamcast (Rookervik)
 - [x] easyrpg (Jetup13)
-- [ ] electron
+- [x] electron
 - [x] emulators (Rob Zombie)
 - [ ] epic
 - [x] famicom (Rookervik)
@@ -82,7 +82,7 @@ Current status: 164/197 complete
 - [ ] fpinball
 - [ ] gamate
 - [x] gameandwatch (Rookervik)
-- [ ] gamecom
+- [x] gamecom
 - [x] gamegear (Rookervik)
 - [x] gb (Rookervik)
 - [x] gba (Rookervik)
@@ -90,7 +90,7 @@ Current status: 164/197 complete
 - [x] gc (Rookervik)
 - [x] genesis (Rookervik)
 - [ ] gmaster
-- [ ] gx4000
+- [x] gx4000
 - [x] intellivision (Rookervik)
 - [ ] j2me
 - [x] kodi (Rookervik)
@@ -122,7 +122,7 @@ Current status: 164/197 complete
 - [x] n64 (Rookervik)
 - [x] n64dd (Rob Zombie)
 - [x] naomi (Jetup13)
-- [ ] naomi2
+- [x] naomi2
 - [ ] naomigd
 - [x] nds (Rookervik)
 - [x] neogeo (Rookervik)
