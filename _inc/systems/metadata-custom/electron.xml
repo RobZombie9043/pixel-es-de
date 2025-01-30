@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Acorn Electron released August 25, 1983. It displays up to 640x256 pixels.</systemDescription>
+        <systemColor>3F9B5B</systemColor>
+        <systemColorPalette1>3F9B5B</systemColorPalette1>
+        <systemColorPalette2>fda504</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+    <variables>
+        <systemConsoleSize>0.7</systemConsoleSize>
+        <systemDescription>The Game.com released August 1997. It displays up to 200x160 pixels.</systemDescription>
+        <systemColor>58ACB4</systemColor>
+        <systemColorPalette1>58ACB4</systemColorPalette1>
+        <systemColorPalette2>465263</systemColorPalette2>
+        <primaryColor>ffffff</primaryColor>
+        <secondaryColor>e3e3e3</secondaryColor>
+    </variables>
+</theme>

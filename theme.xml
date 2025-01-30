@@ -14,14 +14,12 @@ license:      	creative commons CC-BY-NC-SA
 	<variables>
 		<spacerImage>./_inc/images/space.png</spacerImage>
 		<systemBack>./_inc/images/systemback.png</systemBack>
-		<systemSelect>./_inc/images/systems_select.png</systemSelect>
+		<systemSelect>./_inc/images/systems_select_banner.png</systemSelect>
 		<systemSelectFront>./_inc/images/systems_select_front.png</systemSelectFront>
 		<gamelistBack>./_inc/images/background.png</gamelistBack>
 		<gamelistBorder>./_inc/images/border.png</gamelistBorder>
-		<logo>./_inc/systems/logos/${system.theme}.png</logo>
+		<logo>./_inc/systems/logos/${system.theme}.webp</logo>
 		<console>./_inc/systems/consoles/${system.theme}.png</console>
-		<logoNew>./_inc/systems/logos (new)/${system.theme}.webp</logoNew>
-		<consoleNew>./_inc/systems/consoles (new)/${system.theme}.webp</consoleNew>
 		<font>./_inc/fonts/font.ttf</font>
 	</variables>
 
@@ -58,27 +56,11 @@ license:      	creative commons CC-BY-NC-SA
 			<origin>0.5 0.5</origin>
 			<pos>0.5 0.5</pos>
 			<size>1 1</size>
+			<path>${systemBack}</path>
+			<!-- <stationary>always</stationary> -->
 			<color>${systemColor}</color>
 			<tile>false</tile>
 			<zIndex>1</zIndex>
-		</image>
-		<image name="system-carousel-background">
-			<origin>0.5 0.5</origin>
-			<pos>0.5 0.5</pos>
-			<size>1 0.225</size>
-			<path>${spacerImage}</path>
-			<color>ffffffB3</color>
-			<tile>true</tile>
-			<zIndex>3</zIndex>
-		</image>
-		<image name="system-metadata-background">
-			<origin>0.5 0</origin>
-			<pos>0.5 0.6125</pos>
-			<size>1 0.075</size>
-			<path>${spacerImage}</path>
-			<color>ccccccB3</color>
-			<tile>true</tile>
-			<zIndex>3</zIndex>
 		</image>
 		<image name="system-console-overlay">
 			<origin>0.5 0.5</origin>
@@ -91,10 +73,11 @@ license:      	creative commons CC-BY-NC-SA
 			<origin>0.5 0.5</origin>
 			<size>1 0.3</size>
 			<itemSize>0.2 0.2</itemSize>
+			<selectedItemMargins>0.0175 0.0175</selectedItemMargins>
 			<imageFit>contain</imageFit>
 			<itemVerticalAlignment>center</itemVerticalAlignment>
 			<unfocusedItemOpacity>1</unfocusedItemOpacity>
-			<unfocusedItemDimming>0.8</unfocusedItemDimming>
+			<unfocusedItemDimming>1</unfocusedItemDimming>
 			<itemScale>1.1</itemScale>
 			<staticImage>${logo}</staticImage>
 			<fastScrolling>true</fastScrolling>
@@ -118,6 +101,24 @@ license:      	creative commons CC-BY-NC-SA
 			<image name="system-background">
 				<path>${systemBack}</path>
 			</image>
+			<image name="system-carousel-background">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<size>1 0.225</size>
+			<path>${spacerImage}</path>
+			<color>ffffffB3</color>
+			<tile>true</tile>
+			<zIndex>3</zIndex>
+		</image>
+		<image name="system-metadata-background">
+			<origin>0.5 0</origin>
+			<pos>0.5 0.6125</pos>
+			<size>1 0.075</size>
+			<path>${spacerImage}</path>
+			<color>ccccccB3</color>
+			<tile>true</tile>
+			<zIndex>3</zIndex>
+		</image>
 			<image name="system-console-overlay">
 				<pos>0.5 0.5</pos>
 				<maxSize>0.7 0.7</maxSize>
@@ -139,8 +140,7 @@ license:      	creative commons CC-BY-NC-SA
 	<variant name="system-modified">
 		<view name="system">
 			<image name="system-background">
-				<path>${systemSelect}</path>
-				<stationary>always</stationary>
+				<stationary>withinView</stationary>
 			</image>
 			<image name="system-background-front">
 				<origin>0.5 0.5</origin>
@@ -149,14 +149,18 @@ license:      	creative commons CC-BY-NC-SA
 				<tile>false</tile>
 				<color>ffffff</color>
 				<path>${systemSelectFront}</path>
-				<stationary>always</stationary>
+				<stationary>withinView</stationary>
 				<zIndex>2</zIndex>
 			</image>
-			<image name="system-carousel-background">
-				<visible>false</visible>
-			</image>
-			<image name="system-metadata-background">
-				<visible>false</visible>
+			<image name="system-background-banner">
+				<origin>0.5 0.5</origin>
+				<pos>0.5 0.5</pos>
+				<size>1 1</size>
+				<tile>false</tile>
+				<color>ffffffBF</color>
+				<path>${systemSelect}</path>
+				<stationary>withinView</stationary>
+				<zIndex>3</zIndex>
 			</image>
 			<image name="system-console-overlay">
 				<pos>0.5 0.3</pos>
@@ -164,8 +168,8 @@ license:      	creative commons CC-BY-NC-SA
 			</image>	
 			<carousel name="system-carousel">
 				<pos>0.5 0.735</pos>
-				<itemSize>0.15 0.15</itemSize>
-				<itemScale>1.35</itemScale>
+				<itemSize>0.15 0.085</itemSize>
+				<itemScale>1.75</itemScale>
 			</carousel>
 			<text name="system-game-count">
 				<pos>0.5 0.91</pos>
