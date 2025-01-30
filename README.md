@@ -7,7 +7,7 @@ A WIP port of the "Pixel" theme by Rookervik to ES-DE
 | ![1](https://github.com/user-attachments/assets/2a18ceef-fdbb-49e0-908e-6d0df5dd2978) | ![2](https://github.com/user-attachments/assets/43cf4207-dd27-4318-847f-d46674cf4cbb) |
 
 ## **To-Do**
-- [ ] Complete missing system artwork and logos
+- [ ] Complete missing system artwork ~~and logos~~
 - [ ] Implement aspect ratios
 - [ ] Implement font sizes
 - [ ] Create metadata view for gamelist view
@@ -15,7 +15,7 @@ A WIP port of the "Pixel" theme by Rookervik to ES-DE
 ## **Progress**
 This port requires additional pixel art assets to be created for the additional systems supported by ES-DE that were not included in the original theme.
 
-Current status: 168/197 complete
+Current status: 171/197 complete
 - [x] 3do (Rookervik)
 - [x] adam (Rob Zombie)
 - [x] ags (Rookervik)
@@ -116,14 +116,14 @@ Current status: 168/197 complete
 - [x] msx1 (Rookervik)
 - [x] msx2 (Jetup13)
 - [ ] msxturbor
-- [ ] mugen
+- [x] mugen
 - [ ] multivision
 - [x] n3ds (TheGemsbok)
 - [x] n64 (Rookervik)
 - [x] n64dd (Rob Zombie)
 - [x] naomi (Jetup13)
 - [x] naomi2
-- [ ] naomigd
+- [x] naomigd
 - [x] nds (Rookervik)
 - [x] neogeo (Rookervik)
 - [x] neogeocd (Jetup13)
