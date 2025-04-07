@@ -18,6 +18,8 @@ license:      	creative commons CC-BY-NC-SA
 		<systemSelectFront>./_inc/images/systems_select_front.png</systemSelectFront>
 		<gamelistBack>./_inc/images/background.png</gamelistBack>
 		<gamelistBorder>./_inc/images/border.png</gamelistBorder>
+		<gamelistDetailedBack>./_inc/images/bg_detailed.png</gamelistDetailedBack>
+		<gamelistDetailedBorder>./_inc/images/border_detailed.png</gamelistDetailedBorder>
 		<logo>./_inc/systems/logos/${system.theme}.webp</logo>
 		<console>./_inc/systems/consoles/${system.theme}.png</console>
 		<font>./_inc/fonts/font.ttf</font>
@@ -137,7 +139,7 @@ license:      	creative commons CC-BY-NC-SA
 	</variant>
 	
 	
-	<variant name="system-modified">
+	<variant name="system-modified, system-modified-detailed">
 		<view name="system">
 			<image name="system-background">
 				<stationary>withinView</stationary>
@@ -187,71 +189,220 @@ license:      	creative commons CC-BY-NC-SA
 	Gamelist View
 	///
 	-->
-	<view name="gamelist">
-		<image name="gamelist-background">
-			<origin>0.5 0.5</origin>
-			<pos>0.5 0.5</pos>
-			<size>1 1</size>
-			<path>${gamelistBack}</path>
-			<color>${systemColor}</color>
-			<tile>false</tile>
-			<zIndex>1</zIndex>
-		</image>
-		<image name="gamelist-border">
-			<origin>0.5 0.5</origin>
-			<pos>0.5 0.5</pos>
-			<size>1 1</size>
-			<path>${gamelistBorder}</path>
-			<color>acacac</color>
-			<tile>false</tile>
-			<zIndex>2</zIndex>
-		</image>
-		<textlist name="gamelist">
-			<pos>0.033 0.266</pos>
-			<size>0.483 0.611</size>
-			<horizontalAlignment>left</horizontalAlignment>
-			<horizontalMargin>0.01</horizontalMargin>
-			<fontPath>${font}</fontPath>
-			<fontSize>0.03</fontSize>
-			<selectorColor>${systemColorPalette1}</selectorColor>
-			<selectedColor>${systemColorPalette2}</selectedColor>
-			<primaryColor>${primaryColor}</primaryColor>
-			<secondaryColor>${secondaryColor}</secondaryColor>
-			<letterCase>uppercase</letterCase>
-		</textlist>
-		<image name="logo">
-			<origin>0.5 0.5</origin>
-			<pos>0.274 0.114</pos>
-			<maxSize>0.418 0.115</maxSize>
-			<path>${logo}</path>
-			<zIndex>3</zIndex>
-		</image>
-		<image name="md-image">
-			<origin>0.5 0.5</origin>
-			<pos>0.766 0.322</pos>
-			<maxSize>0.366 0.480</maxSize>
-			<imageType>miximage</imageType>
-			<zIndex>3</zIndex>
-		</image>
-		<image name="gamelist-console">
-			<origin>0.5 0.5</origin>
-			<pos>0.880 0.778</pos>
-			<maxSize>0.25 0.25</maxSize>
-			<path>${console}</path>
-			<zIndex>3</zIndex>
-		</image>
-		<text name="gamelist-system-description">
-			<origin>0 0</origin>
-			<pos>0.58 0.677</pos>
-			<size>0.201 0.204</size>
-			<fontSize>0.03</fontSize> 
-			<lineSpacing>1.1</lineSpacing>
-			<fontPath>${font}</fontPath>
-			<text>${systemDescription}</text>
-			<letterCase>none</letterCase>
-			<horizontalAlignment>center</horizontalAlignment>
-			<color>ffffff</color>
-		</text>
-	</view>
+	<variant name="system-original, system-modified">
+		<view name="gamelist">
+			<image name="gamelist-background">
+				<origin>0.5 0.5</origin>
+				<pos>0.5 0.5</pos>
+				<size>1 1</size>
+				<path>${gamelistBack}</path>
+				<color>${systemColor}</color>
+				<tile>false</tile>
+				<zIndex>1</zIndex>
+			</image>
+			<image name="gamelist-border">
+				<origin>0.5 0.5</origin>
+				<pos>0.5 0.5</pos>
+				<size>1 1</size>
+				<path>${gamelistBorder}</path>
+				<color>acacac</color>
+				<tile>false</tile>
+				<zIndex>2</zIndex>
+			</image>
+			<textlist name="gamelist">
+				<pos>0.033 0.266</pos>
+				<size>0.483 0.611</size>
+				<horizontalAlignment>left</horizontalAlignment>
+				<horizontalMargin>0.01</horizontalMargin>
+				<fontPath>${font}</fontPath>
+				<fontSize>0.03</fontSize>
+				<selectorColor>${systemColorPalette1}</selectorColor>
+				<selectedColor>${systemColorPalette2}</selectedColor>
+				<primaryColor>${primaryColor}</primaryColor>
+				<secondaryColor>${secondaryColor}</secondaryColor>
+				<letterCase>uppercase</letterCase>
+			</textlist>
+			<image name="logo">
+				<origin>0.5 0.5</origin>
+				<pos>0.274 0.114</pos>
+				<maxSize>0.418 0.115</maxSize>
+				<path>${logo}</path>
+				<zIndex>3</zIndex>
+			</image>
+			<image name="md-image">
+				<origin>0.5 0.5</origin>
+				<pos>0.766 0.322</pos>
+				<maxSize>0.366 0.480</maxSize>
+				<imageType>miximage</imageType>
+				<zIndex>3</zIndex>
+			</image>
+			<image name="gamelist-console">
+				<origin>0.5 0.5</origin>
+				<pos>0.880 0.778</pos>
+				<maxSize>0.25 0.25</maxSize>
+				<path>${console}</path>
+				<zIndex>3</zIndex>
+			</image>
+			<text name="gamelist-system-description">
+				<origin>0 0</origin>
+				<pos>0.58 0.677</pos>
+				<size>0.201 0.204</size>
+				<fontSize>0.03</fontSize> 
+				<lineSpacing>1.1</lineSpacing>
+				<fontPath>${font}</fontPath>
+				<text>${systemDescription}</text>
+				<letterCase>none</letterCase>
+				<horizontalAlignment>center</horizontalAlignment>
+				<color>ffffff</color>
+			</text>
+		</view>
+	</variant>
 	
+	<variant name="system-modified-detailed">
+		<view name="gamelist">
+			<image name="gamelist-background">
+				<origin>0.5 0.5</origin>
+				<pos>0.5 0.5</pos>
+				<size>1 1</size>
+				<path>${gamelistDetailedBack}</path>
+				<color>${systemColor}</color>
+				<tile>false</tile>
+				<zIndex>1</zIndex>
+			</image>
+			<image name="gamelist-border">
+				<origin>0.5 0.5</origin>
+				<pos>0.5 0.5</pos>
+				<size>1 1</size>
+				<path>${gamelistDetailedBorder}</path>
+				<color>acacac</color>
+				<tile>false</tile>
+				<zIndex>2</zIndex>
+			</image>
+			<textlist name="gamelist">
+				<pos>0.033 0.063</pos>
+				<size>0.367 0.575</size>
+				<horizontalAlignment>left</horizontalAlignment>
+				<horizontalMargin>0.01</horizontalMargin>
+				<fontPath>${font}</fontPath>
+				<fontSize>0.03</fontSize>
+				<lineSpacing>1.47</lineSpacing>
+				<selectorColor>${systemColorPalette1}</selectorColor>
+				<selectedColor>${systemColorPalette2}</selectedColor>
+				<primaryColor>${primaryColor}</primaryColor>
+				<secondaryColor>${secondaryColor}</secondaryColor>
+				<letterCase>uppercase</letterCase>
+			</textlist>
+			<image name="logo">
+				<origin>0.5 0.5</origin>
+				<pos>0.525 0.084</pos>
+				<maxSize>0.16 0.065</maxSize>
+				<path>${logo}</path>
+				<zIndex>3</zIndex>
+			</image>
+			<image name="gamelist-console">
+				<origin>0.5 0.5</origin>
+				<pos>0.525 0.21</pos>
+				<maxSize>0.14 0.16</maxSize>
+				<path>${console}</path>
+				<zIndex>3</zIndex>
+			</image>
+			<image name="md-image">
+				<origin>0.5 0.5</origin>
+				<pos>0.815 0.352</pos>
+				<maxSize>0.28 0.50</maxSize>
+				<imageType>miximage</imageType>
+				<zIndex>3</zIndex>
+			</image>			
+			<text name="gamelist-system-description">
+				<origin>0 0</origin>
+				<pos>0.3 0.725</pos>
+				<size>0.6 0.18</size>
+				<fontSize>0.03</fontSize> 
+				<lineSpacing>1.1</lineSpacing>
+				<fontPath>${font}</fontPath>
+				<metadata>description</metadata>
+				<letterCase>none</letterCase>
+				<horizontalAlignment>center</horizontalAlignment>
+				<color>ffffff</color>
+			</text>
+			<rating name="rating">
+				<origin>0.5 0.5</origin>
+				<pos>0.525 0.3175</pos>
+				<size>0.156 0.03</size>
+				<filledPath>./_inc/images/art/star_full.png</filledPath>
+				<unfilledPath>./_inc/images/art/star_hollow.png</unfilledPath>
+				<overlay>false</overlay>
+				<color>ffffff</color>
+			</rating>
+			<text name="gamelist-genre">
+				<origin>0.5 0.5</origin>
+				<pos>0.525 0.385</pos>
+				<size>0.14 0.03</size>
+				<fontSize>0.03</fontSize> 
+				<fontPath>${font}</fontPath>
+				<metadata>genre</metadata>
+				<letterCase>none</letterCase>
+				<horizontalAlignment>center</horizontalAlignment>
+				<color>ffffff</color> 
+			</text>
+			<datetime name="game-release-date">
+				<origin>0.5 0.5</origin>
+				<pos>0.525 0.45</pos>
+				<metadata>releasedate</metadata>
+				<defaultValue>Not Set</defaultValue>
+				<fontPath>${font}</fontPath>
+				<fontSize>0.03</fontSize>
+				<lineSpacing>1</lineSpacing>
+				<format>%Y-%m-%d</format>
+				<defaultValue>:space:</defaultValue>
+				<color>ffffff</color>
+			</datetime>
+			<text name="gamelist-developer">
+				<origin>0.5 0.5</origin>
+				<pos>0.525 0.5175</pos>
+				<size>0.14 0.05</size>
+				<fontSize>0.03</fontSize> 
+				<lineSpacing>1.1</lineSpacing>
+				<fontPath>${font}</fontPath>
+				<metadata>developer</metadata>
+				<letterCase>none</letterCase>
+				<horizontalAlignment>center</horizontalAlignment>
+				<color>ffffff</color> 
+			</text>
+			<text name="gamelist-publisher">
+				<origin>0.5 0.5</origin>
+				<pos>0.525 0.585</pos>
+				<size>0.14 0.05</size>
+				<fontSize>0.03</fontSize> 
+				<lineSpacing>1.1</lineSpacing>
+				<fontPath>${font}</fontPath>
+				<metadata>publisher</metadata>
+				<letterCase>none</letterCase>
+				<horizontalAlignment>center</horizontalAlignment>
+				<color>ffffff</color> 
+			</text>
+			<text name="gamelist-players-label">
+				<origin>0.5 0.5</origin>
+				<pos>0.123 0.75</pos>
+				<size>0.14 0.05</size>
+				<fontSize>0.03</fontSize> 
+				<lineSpacing>1.1</lineSpacing>
+				<fontPath>${font}</fontPath>
+				<text>Players:</text>
+				<horizontalAlignment>center</horizontalAlignment>
+				<color>ffffff</color> 
+			</text>
+			<text name="gamelist-players">
+				<origin>0.5 0.5</origin>
+				<pos>0.123 0.835</pos>
+				<size>0.14 0.09</size>
+				<fontSize>0.09</fontSize> 
+				<fontPath>${font}</fontPath>
+				<metadata>players</metadata>
+				<defaultValue>-</defaultValue>
+				<horizontalAlignment>center</horizontalAlignment>
+				<color>ffffff</color> 
+			</text>
+		</view>
+	</variant>
 </theme>

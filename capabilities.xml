@@ -59,6 +59,10 @@
 		<label>Modified</label>
 		<selectable>true</selectable>
 	</variant>
+	<variant name="system-modified-detailed">
+		<label>Modified-Detailed</label>
+		<selectable>true</selectable>
+	</variant>
 	
 
 	<!--
