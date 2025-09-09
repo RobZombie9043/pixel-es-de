@@ -15,7 +15,7 @@ A WIP port of the "Pixel" theme by Rookervik to ES-DE
 ## **Progress**
 This port requires additional pixel art assets to be created for the additional systems supported by ES-DE that were not included in the original theme.
 
-Current status: 171/197 complete
+Current status: 172/197 complete
 - [x] 3do (Rookervik)
 - [x] adam (Rob Zombie)
 - [x] ags (Rookervik)
@@ -89,7 +89,7 @@ Current status: 171/197 complete
 - [x] gbc (Rookervik)
 - [x] gc (Rookervik)
 - [x] genesis (Rookervik)
-- [ ] gmaster
+- [x] gmaster
 - [x] gx4000
 - [x] intellivision (Rookervik)
 - [ ] j2me
