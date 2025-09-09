@@ -89,7 +89,7 @@ Current status: 171/197 complete
 - [x] gbc (Rookervik)
 - [x] gc (Rookervik)
 - [x] genesis (Rookervik)
-- [ ] gmaster
+- [x] gmaster
 - [x] gx4000
 - [x] intellivision (Rookervik)
 - [ ] j2me
